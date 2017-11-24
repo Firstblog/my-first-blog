@@ -25,7 +25,7 @@ SECRET_KEY = '#wakz5t2#3x3yr7ndr$vxb5od#6k!s^*h%p*o4xh68r+t+xx8e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<Artem>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','kapitoshka.pythonanywhere.com']
 
 
 # Application definition
